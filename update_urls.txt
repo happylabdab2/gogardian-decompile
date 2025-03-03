@@ -1,0 +1,79 @@
+ifinpabiejbjobcphhaomiifjibpkjlf
+  "update_url": "https://download.qoria.com/browser/rc/au-ga",
+  "version": "3.2.9",
+
+  linewize
+
+
+haldlgldplgnggkjaafhelgiaglafanh
+  "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDPdMH1s/Pt9zfEC6GU2YAky8AtlEeTgKWRZPt5MNMRCz4tp1l5zVnNj12ZFT/7ujt7zND5JL5ucGlsQBSV6GlZHN/ZpP3n6RadQUsGG9IRjvxtUYh2h1hc1GMFAe+E3yLYC9NvgxRbOS3Xdphv0JwokgGXov2oJjledjctWGDluQIDAQAB",
+  "manifest_version": 2,
+  "name": "GoGuardian",
+  "permissions": [
+    "cookies",
+    "geolocation",
+    "history",
+    "idle",
+    "management",
+    "storage",
+    "tabs",
+    "webRequest",
+    "webRequestBlocking",
+    "activeTab",
+    "http://*/*",
+    "https://*/*",
+    "\u003Call_urls\u003E",
+    "identity",
+    "identity.email",
+    "webNavigation",
+    "notifications",
+    "enterprise.deviceAttributes",
+    "pageCapture",
+    "alarms",
+    "system.memory",
+    "system.cpu",
+    "nativeMessaging",
+    "background"
+  ],
+  "update_url": "https://ext.goguardian.com/stable.xml",
+  "version": "4.0.7278.1",
+
+https://crx.goguardian.com/extension-m-4.0.7278.1-stable-crx2.crx
+
+goguardian
+
+seucry no update_url
+
+
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuG+tf4hVUABclvk7dx0Bu7qNZb4hVZNSCn+E0gGqloYmL12TQWrt4/nBNqFf/oyg8+E8sTZzlt4lrF8150a5ZC8usMI5sq4yhKZgLHLXlx/hQhcLvPtgqCj+oFpAxLKmgO59+B47lWgpp1ctN8CedUJbFOmnIaIV/4lhfQbLpiB2OfrIi3k22x1MoIuneoQPKx7ddYEPeVhra6ifoi35pjh3o1xkVNdGA57jNCOhNzE2WocqRO1pkCvYe1skQXyoR0sLqWVpcpaPgClhifmP1Sm4RfVpmYJdPWQn0RcZGQWiKo6GawV5QwwruW2xn4xlzWG53+rTipLPrk4+o/M2WQIDAQAB",
+  "manifest_version": 2,
+  "minimum_chrome_version": "24.0.1307.0",
+  "name": "Securly Classroom",
+  "permissions": [
+    "\u003Call_urls\u003E",
+    "*://*/*",
+    "activeTab",
+    "alarms",
+    "declarativeNetRequest",
+    "enterprise.deviceAttributes",
+    "gcm",
+    "geolocation",
+    "identity",
+    "identity.email",
+    "idle",
+    "nativeMessaging",
+    "notifications",
+    "storage",
+    "webRequest",
+    "webRequestBlocking"
+  ],
+  "short_name": "Securly",
+  "update_url": "https://deviceconsole.securly.com/dist/chrome/n.xml",
+  "version": "1.31.03",
+
+this the the calssroom version
+
+
+
+
+the goguardian obfuscation is kinda bad, most of the code is at the bottom (the unobfuscateable ones)

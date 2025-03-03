@@ -1,0 +1,9 @@
+./admin.js 
+    A import Script for Libery
+        - 
+        - Punycode
+        - Lodash
+        - The buffer module from node.js, for the browser.
+        - Blue bird
+    Notes
+        - 889 (redirecttion logic) -> 887.start() (kick off)
